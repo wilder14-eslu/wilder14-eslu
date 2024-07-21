@@ -2,8 +2,11 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/wilder14-eslu?label=Follow&style=social)](https://github.com/wilder14-eslu?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wilder-espinoza-luna-53b1b11b6/?original_referer=https%3A%2F%2Fpe%2Elinkedin%2Ecom%2F&originalSubdomain=pe)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@user-ni5mv3sq2e)
 [![Twitter](https://img.shields.io/twitter/follow/wildere28034755?style=social)](https://x.com/wildere28034755)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=social&logo=instagram)](https://www.instagram.com/tu_usuario_instagram)
+
+
 
 ## About me
 
@@ -24,11 +27,6 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=flat&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-## GitHub Statistics
-
-![Tus Estadísticas de GitHub]([https://github-readme-stats.vercel.app/api?username=wilder14-eslu&show_icons=true&theme=radical](https://github.com/wilder14-eslu?tab=stars)) 
-
 
 ## Recent activity
 
