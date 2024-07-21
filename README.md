@@ -1,8 +1,8 @@
-# Hi there 👋, I'm [Wilder]
+# Hi there 👋, I'm Wilder.
 
-[![GitHub followers](https://img.shields.io/github/followers/<your-username>?label=Follow&style=social)](https://github.com/<your-username>?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/<your-linkedin-username>/)
-[![Twitter](https://img.shields.io/twitter/follow/<your-twitter-username>?style=social)](https://twitter.com/<your-twitter-username>)
+[![GitHub followers](https://github.com/wilder14-eslu?tab=followers)
+[![LinkedIn](https://www.linkedin.com/in/wilder-espinoza-luna-53b1b11b6/?original_referer=https%3A%2F%2Fpe%2Elinkedin%2Ecom%2F&originalSubdomain=pe)
+[![Twitter]([https://img.shields.io/twitter/follow/<your-twitter-username>?style=social)](https://twitter.com/<your-twitter-username>](https://x.com/wildere28034755))
 
 ## About Me
 
