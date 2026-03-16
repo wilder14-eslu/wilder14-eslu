@@ -1,46 +1,47 @@
-# Hi there 👋, I'm Wilder.
+## Hi, I'm Wilder Espinoza Luna 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/wilder14-eslu?label=Follow&style=social)](https://github.com/wilder14-eslu?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wilder-espinoza-luna-53b1b11b6/?original_referer=https%3A%2F%2Fpe%2Elinkedin%2Ecom%2F&originalSubdomain=pe)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=social&logo=youtube)](https://www.youtube.com/@user-ni5mv3sq2e)
-[![Twitter](https://img.shields.io/twitter/follow/wildere28034755?style=social)](https://x.com/wildere28034755)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=social&logo=instagram)](https://www.instagram.com/tu_usuario_instagram)
+Statistics student at **Universidad Nacional Mayor de San Marcos** (UNMSM), Lima, Peru.
+I build probabilistic ML systems grounded in statistical theory, with a focus on **credit risk modeling, fraud detection, and financial decision systems.**
 
+📫 wilderespinozaluna@gmail.com  |  📍 Lima, Peru  |  🟢 Open to internships
 
+---
 
-## About me
+### About me
+My background in Bayesian inference, MCMC, and statistical inference bridges mathematical rigor and production ML.
+I work across the full pipeline: data ingestion, feature engineering, model training, evaluation, and interpretation.
+Currently building expertise in **ML Engineering**: deployment, MLOps, and reproducible workflows.
 
-- 🎓 I am a statistics student passionate about machine learning and data science.
-- 🌱 I am learning advanced machine learning techniques.
-- 👯 I am looking to collaborate on open source AI projects.
-- 📫 How to contact me: wilderespinozaluna@gmail.com
+---
 
-## Languages ​​and Tools
+### Featured projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![R Studio](https://img.shields.io/badge/R%20Studio-75AADB?style=flat&logo=rstudio&logoColor=white)
-![Minitab](https://img.shields.io/badge/Minitab-1C97E3?style=flat&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=flat&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+| Project | Description | Key result |
+|---|---|---|
+| [bayesian-poverty-analysis-peru](https://github.com/wilder14-eslu/bayesian-poverty-analysis-peru) | Bayesian logistic regression on ENAHO 2024 (~37k households) | AUC-ROC 0.846 · R-hat 1.000 |
+| [fintech-market-research-lima](https://github.com/wilder14-eslu/market-research-consumer-credit-lima) | Probabilistic market sizing — 4 sampling designs, EPEN 2024 | 53.9% precision gain · TAM 16,085 |
+| [malaria-prediction-peru](https://github.com/wilder14-eslu/malaria-prediction-peru) | ARIMA vs. neural networks for malaria forecasting 2000–2027 | End-to-end pipeline |
 
-## Recent activity
+---
 
-### Research on Prediction of Malaria Cases in Peru
+### Technical skills
 
-- **Current Project**: Development of machine learning models for the prediction of malaria cases in Peru for the year 2027.
-- **Data Used**: Database of the Peruvian open data platform, with a period of more than 20 years (2000-2022).
-- **Objective**: Develop predictive models to estimate the future incidence of malaria in Peru using historical data.
-- **Recent Progress**:
- - Exploratory data analysis to understand historical trends and relevant factors.
- - Implementation of regression and time series models, including ARIMA and neural network models.
- - Model performance evaluation using precision metrics and cross-validation.
- - Preparation of visualizations to communicate findings and projections.
-- **Achievements**:
- - Generation of initial predictions for the year 2027.
- - Preparation of a preliminary report with recommendations for public health policies based on the results of the model.
- - Presentation of findings at a local seminar on public health and technology.
+**ML & Statistics**
+`Bayesian inference` `MCMC · HMC · NUTS` `Probabilistic modeling` `Regression & classification` `Time series` `Sampling theory`
+
+**Tools & Frameworks**
+`Python` `PyMC` `ArviZ` `Stan` `R` `scikit-learn` `TensorFlow` `pandas` `NumPy` `Apache Spark` `SQL` `Power BI`
+
+**Building now**
+`FastAPI` `Docker` `MLflow` `HuggingFace Transformers` `CI/CD for ML` `AWS/GCP`
+
+---
+
+### GitHub stats
+
+![Wilder GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilder14-eslu&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilder14-eslu&layout=compact&hide_border=true)
+
+---
+
+*Universidad Nacional Mayor de San Marcos · Lima, Peru · Statistics · ML Engineering · Financial AI*
