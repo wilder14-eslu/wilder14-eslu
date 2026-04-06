@@ -24,8 +24,8 @@ Working across the full ML pipeline toward ML Engineering.
 
 | | Project | Description | Key result |
 |---|---|---|---|
-| 📌 | [**bayesian-poverty-analysis-peru**]([https://github.com/wilder14-eslu/bayesian-poverty-analysis-peru](https://github.com/wilder14-eslu/Bayesian-Logistic-Regression-for-the-Analysis-of-the-Determinants-of-Monetary-Poverty-in-Peru-2024)) | Bayesian logistic regression on ENAHO 2024 (~37k households). Full HMC/NUTS via PyMC, prior sensitivity analysis, WAIC/LOO-CV comparison | AUC-ROC **0.846** · R-hat **1.000** · ESS **>2,000** |
-| 📌 | [**fintech-market-research-lima**]([https://github.com/wilder14-eslu/market-research-consumer-credit-lima](https://github.com/wilder14-eslu/sampling-methods-fintech-market-entry-lima)) | Probabilistic market sizing using 4 sampling designs on EPEN 2024 (N=26,844). Proposes FinAvanza mobile banking app | **53.9%** precision gain · TAM **16,085** · DEFF **0.461** |
+| 📌 | [**bayesian-poverty-analysis-peru**]([https://github.com/wilder14-eslu/bayesian-poverty-analysis-peru](https://github.com/wilder14-eslu/Bayesian-Logistic-Regression-for-the-Analysis-of-the-Determinants-of-Monetary-Poverty-in-Peru-2024) | Bayesian logistic regression on ENAHO 2024 (~37k households). Full HMC/NUTS via PyMC, prior sensitivity analysis, WAIC/LOO-CV comparison | AUC-ROC **0.846** · R-hat **1.000** · ESS **>2,000** |
+| 📌 | [**fintech-market-research-lima**]([https://github.com/wilder14-eslu/market-research-consumer-credit-lima](https://github.com/wilder14-eslu/sampling-methods-fintech-market-entry-lima) | Probabilistic market sizing using 4 sampling designs on EPEN 2024 (N=26,844). Proposes FinAvanza mobile banking app | **53.9%** precision gain · TAM **16,085** · DEFF **0.461** |
 | 🔬 | [**malaria-prediction-peru**](https://github.com/wilder14-eslu/malaria-prediction-peru) | ARIMA vs. neural networks for malaria incidence forecasting through 2027 using 20+ years of historical data | End-to-end pipeline · Policy projections |
 
 ---
