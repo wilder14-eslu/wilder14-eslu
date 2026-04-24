@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilder-espinoza-luna-53b1b11b6/)
 [![GitHub followers](https://img.shields.io/github/followers/wilder14-eslu?label=Follow&style=social)](https://github.com/wilder14-eslu)
-[![Email](https://img.shields.io/badge/Email-wilderespinozaluna%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:wilderespinozaluna@gmail.com)
+[![Email](https://img.shields.io/badge/Email-wilderespinozaluna%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:esluwilder@gmail.com)
 
 🟢 **Open to internships** · 📍 Lima, Peru · Universidad Nacional Mayor de San Marcos
 
